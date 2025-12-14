@@ -18,20 +18,18 @@ Depois, após instalar todas as dependências, abra[http://localhost:3000], seu 
 <img width="1325" height="597" alt="Captura de tela 2025-12-14 163050" src="https://github.com/user-attachments/assets/d0d3fe54-5019-47ce-8221-fbf49fcf9aea" />
 ### Primeira seção:
 Aqui contém os cards com os dados sobre os planetas registrados em uma das tabelas do banco de dados. As informações são: Nome, anos-luz, tipo, imagem e uma descrição.
-
-![alt text](image-1.png)
+<img width="1325" height="573" alt="Captura de tela 2025-12-14 163138" src="https://github.com/user-attachments/assets/257cbfb0-b2c0-4481-bdd9-830fa7aaba2d" />
 ### Segunda seção:
 Um pequeno espaço para digitar uma data, ao apertar em "Buscar", uma imagem + texto será exibido.
-
+<img width="1318" height="597" alt="Captura de tela 2025-12-14 163747" src="https://github.com/user-attachments/assets/51acf422-2e43-49a8-8ff0-638fea309ba5" />
 ![alt text](image-5.png)
 ### Terceira seção:
 Ao clicar no botão de triângulo, vai exibir imagens referente ao espço, astronomia e afins.
-
-![alt text](image-3.png)
+<img width="1331" height="608" alt="Captura de tela 2025-12-14 163244" src="https://github.com/user-attachments/assets/0daef5c8-c8c6-4e23-9fb8-ecd4832373a9" />
 
 Ao clicar na imagem, vai abrir um modal. Exemplo:
+<img width="1325" height="592" alt="Captura de tela 2025-12-14 163259" src="https://github.com/user-attachments/assets/16d2e0dd-d3bd-413b-9463-79fc6a489f88" />
 
-![alt text](image-4.png)
 
 ## Funcionalidades
 - [ x ] Cards contendo dados sobre planetas
