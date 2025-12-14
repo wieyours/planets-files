@@ -15,7 +15,7 @@ Depois, após instalar todas as dependências, abra[http://localhost:3000], seu 
 ## Design do projeto
 
 ### Layout principal:
-![alt text](image.png)
+<img width="1325" height="597" alt="Captura de tela 2025-12-14 163050" src="https://github.com/user-attachments/assets/d0d3fe54-5019-47ce-8221-fbf49fcf9aea" />
 ### Primeira seção:
 Aqui contém os cards com os dados sobre os planetas registrados em uma das tabelas do banco de dados. As informações são: Nome, anos-luz, tipo, imagem e uma descrição.
 
